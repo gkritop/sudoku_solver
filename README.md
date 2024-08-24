@@ -1,4 +1,4 @@
-# sudoku_solver
+# Sudoku Solver
 
 Solving Sudoku with Backtracking Algorithm
 
