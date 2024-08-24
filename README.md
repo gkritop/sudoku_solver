@@ -1,6 +1,4 @@
-# Sudoku Solver
-
-Solving Sudoku with Backtracking Algorithm
+# Sudoku Solver with Backtracking Algorithm
 
 - Purpose: 
   - The code aims to solve Sudoku puzzles using a backtracking algorithm, ensuring that Sudoku rules are followed.
